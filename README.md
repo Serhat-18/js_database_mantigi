@@ -12,4 +12,4 @@ kod içerisinde yorum satırı(//) ile detaylı açıklamalar yapıldı
                                                                       
                                                                       #Yazıldığı Dil 
                                                                       
-                                                                      ![yazildigi_dil](https://skillicons.dev/icons?i=js")
+                                                                      Js 
